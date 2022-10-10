@@ -1,2 +1,2 @@
-# Assignment-two
- 
+# Bugema University
+ classes Second Semester
